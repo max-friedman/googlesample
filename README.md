@@ -1,3 +1,3 @@
 # About me
 
-This is a sample project for *STEP intern training 2020*
+This is a sample project for **STEP intern training 2020**
